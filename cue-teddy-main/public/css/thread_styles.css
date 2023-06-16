@@ -1,0 +1,92 @@
+.account {
+    margin-right: 1em;
+}
+
+.home {
+    margin-right: 1em;
+}
+
+.logout {
+    margin-right: auto;
+}
+
+.return {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#nav-page {
+    background-color: #4A0D66 !important;
+}
+
+.welcome {
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.page-control {
+    text-align: center;
+}
+
+.forum-post {
+    border: 2px solid black;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: left;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.forum-post h2 {
+    border: 3px solid black;
+    margin-bottom: 2 px;
+    background-color: black;
+    color: white;
+    
+}
+
+#content {
+    display: block;
+}
+
+.forum-post p {
+    display: inline-block;
+    margin-left: 2%;
+    
+}
+
+.reply-delete {
+    width: 80%;
+}
+
+.thread-top {
+    text-align: left;
+}
+
+.threadReply {
+    width: 80%;
+    margin: auto;
+    padding: .2%;;
+}
+
+.threadDelete {
+    width: 80%;
+    display: block;
+    margin: auto;
+    
+}
+
+.reply-delete form {
+    padding: .2%;
+}
+
+.reply-delete textarea {
+    margin-bottom: .5%;
+}
+
+#creator {
+    display: block;
+    margin-left: 2%;
+    text-align: left;
+}

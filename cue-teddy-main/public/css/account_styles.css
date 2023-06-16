@@ -1,0 +1,34 @@
+.account {
+    
+    margin-right: 1em;
+}
+
+.logout {
+    margin-right: auto;
+}
+
+.return {
+    margin-left: auto;
+}
+
+.welcome {
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.forum-post {
+    border: 1px solid red;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.forum-post p {
+    display: inline-block;
+    
+}
+
+.page-control {
+    text-align: center;
+}

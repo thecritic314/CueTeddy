@@ -1,0 +1,58 @@
+.account {
+    margin-right: 1em;
+}
+
+.home {
+    margin-right: 1em;
+}
+
+.logout {
+    margin-right: auto;
+}
+
+.return {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.welcome {
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+#nav-page {
+    background-color: #4A0D66 !important;
+}
+
+.main-posts {
+    text-align: center;
+}
+
+.forum-post {
+    border: 2px solid black;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.create-new {
+    text-align: center;
+}
+
+.create {
+    margin: 1%;
+}
+
+.buttons {
+    padding: 1%;
+}
+
+.forum-post p {
+    display: inline-block;
+    
+}
+
+.page-control {
+    text-align: center;
+}
